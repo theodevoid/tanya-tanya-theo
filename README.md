@@ -23,3 +23,7 @@ That's it! Tinggal tunggu aja video gue tayang. Semoga pertanyaan lo kepilih ya!
 ## Disclaimer ⚠️
 
 Gue gak jamin semua pertanyaan bakal gue jawab ya. Tapi gue bakal usahain yang terbaik! Stay awesome, gengs! 😎
+
+## Credits
+
+Heavily inspired by Pak Eko (Programmer Zaman Now)
