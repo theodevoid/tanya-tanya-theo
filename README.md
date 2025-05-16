@@ -6,7 +6,7 @@
 
 Pertanyaannya bebas mulai dari technical, minta sharing insights, experience, opinions, etc. Just submit it as an issue here.
 
-Gue bakal pilih pertanyaan-pertanyaan menarik buat dijawab di video YouTube. So, subscribe to [my channel](https://youtube.com/@voidfnc) biar gak ketinggalan jawaban lo! 😁
+Gue bakal pilih pertanyaan-pertanyaan menarik buat dijawab di video/live YouTube. So, subscribe to [my channel](https://youtube.com/@voidfnc) biar gak ketinggalan jawaban lo! 😁
 
 ## How To Ask a Question 🤔
 
