@@ -18,11 +18,13 @@ Pengen nanya tapi bingung caranya? Chill, gampang banget kok:
 4.  **Di bagian "Description", jelasin lebih detail lagi kalo perlu.** (Context is key!)
 5.  **Click "Submit new issue".** (Done!)
 
-That's it! Tinggal tunggu aja video gue tayang. Semoga pertanyaan lo kepilih ya! Good luck! ✨
+That's it! Tinggal tunggu aja video gue tayang. Semoga pertanyaan lo kepilih ya! Good luck! 
 
 ## Disclaimer ⚠️
 
-Gue gak jamin semua pertanyaan bakal gue jawab ya. Tapi gue bakal usahain yang terbaik! Stay awesome, gengs! 😎
+Gue gak jamin semua pertanyaan bakal gue jawab ya. Tapi gue bakal usahain yang terbaik!
+
+Jangan lupa untuk cek issues yang lain, siapa tau pertanyaan kalian udah pernah ada yang tanya dan dijawab.
 
 ## Credits
 
